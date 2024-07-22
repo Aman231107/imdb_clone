@@ -8,7 +8,7 @@ const About = () => {
         <div className="about-content md:w-1/2 md:pr-8">
           <h1 className="text-3xl font-bold mb-4">Welcome to My Movie Hub!</h1>
           <p className="text-grey-800">
-            I'm Rishik, and I have a deep passion for well-made movies. This
+            I'm Aman Dhattarwal, and I have a deep passion for well-made movies. This
             website is my personal movie hub, where I share information about my
             favorite films, actors, and everything related to the world of
             entertainment.
